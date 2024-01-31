@@ -1,8 +1,8 @@
-# This is in korean 
+
 
 [공통] 마크다운 markdown 작성법
-**This is in korean** 
 ======================
+**This is in Korean** 
 
 # 1. 마크다운에 관하여
 ## 1.1. 마크다운이란?
